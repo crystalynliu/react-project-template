@@ -1,8 +1,9 @@
-import "./App.css";
-import { Infrastructure } from "../Infrastructure";
-import { Route, Routes } from "react-router-dom";
-import { Home } from "../pages";
-import { Footer, Header } from "../Layout";
+import './App.css';
+import { Route, Routes } from 'react-router-dom';
+
+import { Infrastructure } from '../Infrastructure';
+import { Home } from '../pages';
+import { Footer, Header } from '../Layout';
 
 const MainContent = () => {
   return (
