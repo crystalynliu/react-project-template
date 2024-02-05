@@ -1,3 +1,5 @@
+import config from '../../config';
+
 export const Home = () => {
-  return <div>HomePage</div>;
+  return <div>HomePage {config.example}</div>;
 };
