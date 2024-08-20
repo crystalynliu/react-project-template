@@ -3,7 +3,7 @@
 ## Version
 
 * Yarn 1.22.10
-* Node 18.15.0
+* Node 18.18.0
 
 ## Start the app locally
 
